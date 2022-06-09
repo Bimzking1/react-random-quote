@@ -6,3 +6,4 @@
 4. npm start
 
 - Netlify: https://bimo-react-advice-quote.netlify.app
+- Vercel: https://react-random-quote-zeta.vercel.app
